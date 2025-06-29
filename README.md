@@ -4,7 +4,7 @@ This repository contains an AI-powered solution for the early detection of Leuke
 
 ## Demo Video
 
-Demo : 
+Demo : https://youtu.be/KLpIaKE_rCw
 
 In this demo, the application is running on raspberry pi 5, ubuntu 22.04 server os. We are accessing the application through the device's ip in the local network in which the device is deployed. 
 ## Features
